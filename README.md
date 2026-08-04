@@ -99,6 +99,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjhok6389&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhok6389&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjhok6389&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="jjhok6389's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhok6389&layout=compact&theme=radical&hide_border=true" alt="jjhok6389's Top Languages" />
 </div>
