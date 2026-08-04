@@ -1,17 +1,23 @@
 <div align="center">
 
-# 👋 안녕하세요. 풀스택 개발자 김대호입니다.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Hello+World!+%F0%9F%91%8B;Kim+Dae-ho;Full-Stack+Developer" alt="Typing SVG" />
+  </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjhok6389&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <p>🚀 Turning Complexity into Simplicity</p>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jjhok6389&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ### 💻 Language
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
@@ -24,7 +30,7 @@
 </p>
 
 ### 📱 Frontend & Mobile
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
@@ -37,7 +43,7 @@
 </p>
 
 ### ⚙️ Backend & API
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white">
@@ -50,7 +56,7 @@
 </p>
 
 ### 🗄️ Database & Cloud / DevOps
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
@@ -68,7 +74,7 @@
 </p>
 
 ### 🤖 AI & Data Science
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
@@ -95,6 +101,7 @@
 - 🥉 **동상** (2024.12) — 캠퍼스타운 창업아이디어 경진대회
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -102,3 +109,5 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhok6389&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+</div>
