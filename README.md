@@ -101,13 +101,3 @@
 - 🥉 **동상** (2024.12) — 캠퍼스타운 창업아이디어 경진대회
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjhok6389&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhok6389&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-</div>
