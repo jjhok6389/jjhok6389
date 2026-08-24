@@ -6,7 +6,6 @@
 
   <p>🚀 Turning Complexity into Simplicity</p>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jjhok6389&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
