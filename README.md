@@ -1,47 +1,4 @@
-<!-- 웹 프론트엔드 -->
-<img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white">
 
-<!-- 상태관리 · 라우팅 -->
-<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white">
-<img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=ReactRouter&logoColor=white">
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white">
-
-<!-- 모바일 -->
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white">
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/Expo%20Router-000020?style=flat-square&logo=Expo&logoColor=white">
-
-<!-- 서비스 백엔드 -->
-<img src="https://img.shields.io/badge/Django%205.2-092E20?style=flat-square&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/django--ninja-092E20?style=flat-square&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white">
-
-<!-- 인증 -->
-<img src="https://img.shields.io/badge/JWT%20(SimpleJWT)-000000?style=flat-square&logo=JSONWebTokens&logoColor=white">
-
-<!-- 메인 DB -->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white">
-
-<!-- 채용공고 저장소 -->
-<img src="https://img.shields.io/badge/PostgreSQL%20jobs%20%EC%8A%A4%ED%82%A4%EB%A7%88-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
-
-<!-- 파일 저장 -->
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white">
-
-<!-- 비동기 작업 · 캐시 -->
-<img src="https://img.shields.io/badge/Celery%20(worker%20%C2%B7%20beat)-37814A?style=flat-square&logo=Celery&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
-
-<!-- 배포 -->
-<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20EC2%20%C3%972-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20ECR-FF9900?style=flat-square&logo=AmazonECR&logoColor=white">
-<img src="https://img.shields.io/badge/S3%20%2B%20CloudFront-8C4FFF?style=flat-square&logo=AmazonCloudFront&logoColor=white">
 <div align="center">
 
   <a href="https://git.io/typing-svg">
